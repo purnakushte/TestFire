@@ -1,0 +1,28 @@
+{
+  "name": "testfire",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mocha": "^5.2.7",
+    "@types/selenium-webdriver": "^4.0.3",
+    "chromedriver": "latest",
+    "mocha": "^5.2.0",
+    "cucumber-tsflow": "4.0.0-rc.1",
+    "chai": "4.3.4",
+    "selenium-webdriver": "latest",
+    "typescript": "^3.6.4",
+    "webpack": "^5.33.2"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "devDependencies": {
+    "cucumber": "^7.0.0-rc.0"
+  }
+}
