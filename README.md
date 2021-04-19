@@ -2,15 +2,15 @@
 
 Project Build using Visual Studio
 Language: C#
-Tools: Seleneium WebDriver
-BDD Framework : Speckflow
+Tools: Selenium  WebDriver
+BDD Framework : Speck Flow
 
 Tested scenarios
 
-1 - PageLoad Feature : Checked if the Page loads correctly
+1 - Page Load Feature : Checked if the Page loads correctly
 
-2 - SignIn : Checked if SignIn works sucessfully
+2 - Sign In : Checked if Sign In works successfully
 
 3 - Account Number Details : Checked if 2 account number's are displayed correctly
 
-4 - SignOut : Checked if SignOut works sucessfully
+4 - Sign Out : Checked if Sign Out works successfully
